@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  border: 0;
+  font-family: 'Raleway', sans-serif;
+  background-color: #000000;
+  color:#ffffff;
+}
+
+/*debería ir un h1 sólo, sólo con el color*/
+/*header h1 {
+  text-align: center;
+  font-size: 50px;
+  padding: 10px;
+} esto es una prueba*/
+h1 h2 p {
+  color: #ffffff;
+}
+
+/*----HEADER----*/
+
+.header{
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.imguno img {
+width: 100%;
+}
+
+/*----DESCRIPCIÓN----*/
+
+.seccionuno {
+  margin: 0;
+  padding: 45px 0;
+  background-color: #000000;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.item1 {
+  display: inline-block;
+  text-align: left;
+  padding-right: 20px;
+  width: 60%;
+  vertical-align: middle;
+}
+
+.imgdos{
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+
+.imgdos img{
+  width: 100%;
+}
+
+/*ICONOS*/
+
+.icons-section {
+	background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+}
+
+.icons-section h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.icons {
+	display: inline-block;
+	width: 30%;
+}
+
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+/*IMAGENES*/
+
+.img-section {
+	text-align: center;
+	padding: 75px 0;
+}
+
+.imagen {
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+.imagen img {
+	width: 90%;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
+
+footer {
+	background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+/* todo yo lo coloque
+header h1 {
+  display: block;
+  font-size: 50px;
+  color: white;
+}
+
+
+.tem, .iguana1{
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.justificar{
+
+    margin: 0 auto;
+    width: 75%;
+}
+*/
